@@ -1,6 +1,10 @@
 # ⭐ GMDI | GameMaker DiscordAPI Integration
 GMDI (GameMaker DiscordAPI Integration) is a library (in the form of a yymps file that can be imported into GameMaker Studio) that offers an easy way to program even complex Discord bots with GameMaker. GMDI works with the live connection to the Discord gateway and with HTTP requests. 
 
+> [!TIP] 
+> Documentation, helpful tips, tutorials and examples can be found here: 
+➡️ https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docu/EVENTS
+
 ## ⭐ Features
 - a live connection to the Discord gateway and receive all Discord events
 - an asynchronous system for HTTP requests and gateway connections with corresponding interception of HTTP errors and Discord Api errors
