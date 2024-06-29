@@ -52,3 +52,4 @@ Choose which permissions you want your bot to have on your Discord server, open 
 5. When you start your bot, a config.json is created in this folder and you can then change your default values there again and again until you delete this file, because then the default values are taken from the Config() again and a new config.json is created. 
 The content of **config.json** is **ALWAYS CURRENTLY** stored in the GameMaker variable **"global.config"**. So if you want to have your bot token, you must do this: **global.config.token**
 
+6. Further information can be found in the GMDI documentation.
