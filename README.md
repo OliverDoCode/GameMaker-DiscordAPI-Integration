@@ -32,15 +32,17 @@ You can do this under **Quick Access/Game Options/Windows/General/Disable file s
 
 
 ## ⭐ Configure your discord bot
-![Config()](img/screenshot_config.png)
 
 1. You can create and edit your app (your Discord Bot) [here in the dev portal](https://discord.com/developers/applications)
 
 2. You will find your token under the "Bot" tab in the dev portal. Reset it and copy it (treat the token like a password). Open GameMaker (with GMDI) and enter it in the **Config()** function under **GMDI/Config/Config()** in the variable **"token"** as a string. 
+
+![Config()](img/screenshot_config.png)
+
 > [!CAUTION]
 > Make sure that you are using an original GMDI version that you have only downloaded from [Github](https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration) or the [GMDI Discord](https://discord.com/invite/PVV3afa3GC). Otherwise there is a risk that a modified version sends secret data to others!
 
-3. Do the same with the application id and copy it. The ID can be found under the **"General Information"** tab in the dev portal.
+3. Do the same with the **application id** and copy it. The ID can be found under the **"General Information"** tab in the dev portal.
 Also add it to the variable **"application_id"** as a string in the **Config()**.
 
 4. Your bot must be a member of at least one Guild (Discord server).
@@ -49,7 +51,8 @@ Choose which permissions you want your bot to have on your Discord server, open 
 [Here is a tutorial on this](https://www.youtube.com/watch?v=Q3g9KW8QxUM&ab_channel=OliverDoCode)
 
 5. Create a folder on your desktop where all bot files should be saved. Copy the path and add it to the **"path"** variable as a string in **Config()**. 
-**IMPORTANT: Each character "\" must be double (i.e. "\\") and there must also be a "\\" at the end of the path.**
+> [!IMPORTANT]
+> Each character **"\"** must be double (i.e. **"\\"**) and there must also be a **"\\"** at the **end of the path**.
 **Example: C:\\Users\\Desktop\\Bot\\**
 
 6. Now you can start your bot and you should see that your bot is online on your Guild.
