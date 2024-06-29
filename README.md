@@ -52,7 +52,7 @@ Choose which permissions you want your bot to have on your Discord server, open 
 
 5. Create a folder on your desktop where all bot files should be saved. Copy the path and add it to the **"path"** variable as a string in **Config()**. 
 > [!IMPORTANT]
-> Each character **"\\"** must be double (i.e. **"\\\"**) and there must also be a **"\\\"** at the **end of the path**.
-**Example: C:\\\Users\\\Desktop\\\Bot\\\**
+> Each character **"\\"** must be double, and there must also be a double character at the **end of the path**.
+![path](img/screenshot_path.png)
 
 6. Now you can start your bot and you should see that your bot is online on your Guild.
