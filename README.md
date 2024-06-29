@@ -12,9 +12,8 @@ GMDI (GameMaker DiscordAPI Integration) is a library (in the form of a yymps fil
 - easier and faster configuration of your Discord bot, so you can start programming immediately.
 - thanks to the **house()** system, you can easily redirect interactions to a function so that you have all the code for that interaction in one script.
 
-## ❗ PLEASE READ THIS BEFORE YOU START  ❗
-GMDI (OliverDoCode) assumes no liability for GameMaker projects / Discord bots that regularly exceed the [rate limits](https://discord.com/developers/docs/topics/rate-limits) of the API. Every developer who creates a bot with GMDI is responsible for their own project. GMDI is **open source** and can be modified and controlled by anyone. Therefore, make sure that you **ALWAYS** download the **ORIGINAL version** of GMDI and **not a modified copy** without being 100% sure that your secret data (like the Discord bot token) will not be shared with others. 
-
+> [!CAUTION]
+> GMDI (OliverDoCode) assumes no liability for GameMaker projects / Discord bots that regularly exceed the [rate limits](https://discord.com/> developers/docs/topics/rate-limits) of the API. Every developer who creates a bot with GMDI is responsible for their own project. GMDI is > **open source** and can be modified and controlled by anyone. Therefore, make sure that you **ALWAYS** download the **ORIGINAL version** of GMDI and **not a modified copy** without being 100% sure that your secret data (like the Discord bot token) will not be shared with others. 
 
 
 ## ⭐ How to install
@@ -37,7 +36,8 @@ You can do this under **Quick Access/Game Options/Windows/General/Disable file s
 1. You can create and edit your app (your Discord Bot) [here in the dev portal](https://discord.com/developers/applications)
 
 2. You will find your token under the "Bot" tab in the dev portal. Reset it and copy it (treat the token like a password). Open GameMaker (with GMDI) and enter it in the **Config()** function under **GMDI/Config/Config()** in the variable **"token"** as a string. 
-Attention! Make sure that you are using an original GMDI version that you have only downloaded from [Github](https://github.com/OliverDoCode/GMDI) or the [GMDI Discord](https://discord.gg/PVV3afa3GC). Otherwise there is a risk that a modified version sends secret data to others!
+> [!CAUTION]
+> Make sure that you are using an original GMDI version that you have only downloaded from [Github](https://github.com/OliverDoCode/GMDI) or the [GMDI Discord](https://discord.gg/PVV3afa3GC). Otherwise there is a risk that a modified version sends secret data to others!
 
 2. Do the same with the application id and copy it. The ID can be found under the **"General Information"** tab in the dev portal.
 Also add it to the variable **"application_id"** as a string in the **Config()**.
