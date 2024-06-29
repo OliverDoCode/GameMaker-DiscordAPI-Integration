@@ -1,2 +1,5 @@
 # GMDI
 GMDI (GameMaker DiscordAPI Integration) is a library (in the form of a yymps file that can be imported into GameMaker Studio) that offers an easy way to program even complex Discord bots with GameMaker. GMDI works with the live connection to the Discord gateway and with HTTP requests.
+# GMDI • GameMaker DiscordPI Integration
+GMDI (GameMaker DiscordAPI Integration) is a library (in the form of a yymps file that can be imported into GameMaker Studio) that offers an easy way to program even complex Discord bots with GameMaker. GMDI works with the live connection to the Discord gateway and with HTTP requests. All data sent back and forth are JSONs and converted to "structs" in GameMaker.
+GMDI is set up so that you can directly start programming the functions of your bot. GMDI has helpful functions and scripts and in the near future a complete documentation.
