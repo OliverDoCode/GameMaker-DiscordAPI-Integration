@@ -32,6 +32,7 @@ You can do this under **Quick Access/Game Options/Windows/General/Disable file s
 
 
 ## ⭐ Configure your discord bot
+[Config()](images/screenshot_config.png)
 1. You can create and edit your app (your Discord Bot) [here in the dev portal](https://discord.com/developers/applications)
 
 2. You will find your token under the "Bot" tab in the dev portal. Reset it and copy it (treat the token like a password). Open GameMaker (with GMDI) and enter it in the **Config()** function under **GMDI/Config/Config()** in the variable **"token"** as a string. 
