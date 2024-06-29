@@ -22,14 +22,16 @@ https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docu
 
 
 ## ⭐ How to install
+
+> [!NOTE]
+> You can download **Oliver's GMDI .yymps file** via the **GMDI Discord:** https://discord.gg/PVV3afa3GC
+
 [Here is a video tutorial](https://www.youtube.com/watch?v=Q3g9KW8QxUM&ab_channel=OliverDoCode). 
 **However, I recommend reading these instructions, as not everything is shown in the video.**
 
 1. First check that you have the [latest version of GameMaker Studio](https://gms.yoyogames.com/ReleaseNotes.html). GMDI has only been tested with a paid version of GameMaker Studio and with the Windows operating system.
 
 2. **Download the .yymps file.** Import the .yympd file into an empty GameMaker project (also delete the default folders and the default room in the GameMaker project)
-> [!NOTE]
-> You can download **Oliver's GMDI .yymps file** via the **GMDI Discord:** https://discord.gg/PVV3afa3GC
 
 3. Make sure that the room **DiscordBot_Interface** is set as the start room in **GMDI/System/Interface/DiscordBot_Interface** (there must be a house symbol in front of it).
 
