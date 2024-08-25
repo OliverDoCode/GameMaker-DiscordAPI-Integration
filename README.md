@@ -16,6 +16,8 @@ https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docs
 - simple programming thanks to various auxiliary systems such as auto-response system or auto-command updater
 - send files in messages, including sprites or surfaces
 - also suitable for beginners
+- high priority of error handling
+- Compliance with the rules of the Discord Api
 
 ## Missing, but in progress:
 - Receive and send audio data
