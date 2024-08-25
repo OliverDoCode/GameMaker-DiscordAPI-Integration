@@ -26,3 +26,11 @@ https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docs
 > [!CAUTION]
 > DiscordGML/OliverDoCode assumes no liability for GameMaker projects / Discord bots/apps that regularly exceed the 
 [rate limits](https://discord.com/developers/docs/topics/rate-limits) of the API. Every developer who creates a bot with DiscordGML is responsible for their own project. DiscordGML is **open source** and can be modified and controlled by anyone. Therefore, make sure that you **ALWAYS** download the **ORIGINAL version** of DiscordGML and **not a modified copy** without being 100% sure that your secret data (like the Discord bot token) will not be shared with others. 
+
+## Functions of DiscordGML that we work with
+
+app()       // You can do everything with it around your app
+build()     // you use it to build objects 
+type()      // contains all the types you need to build objects
+wrap()      // wrap an object to see in the help window of GameMaker what this object can contain
+flags()     // contains all flags and a function that can check flags
