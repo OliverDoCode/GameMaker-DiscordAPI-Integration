@@ -1,4 +1,4 @@
-# 📗 Oliver's DiscordGML
+# 🩵 DiscordGML
 
 DiscordGML does everything to make it easier for you to write apps/bots in GameMaker.
 
@@ -7,7 +7,7 @@ DiscordGML does everything to make it easier for you to write apps/bots in GameM
 https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docs
 
 > [!NOTE]
-> You can download **Oliver's DiscordGML .yymps file** via the Discord: https://discord.gg/PVV3afa3GC
+> You can download **DiscordGML .yymps file** via the Discord: https://discord.gg/PVV3afa3GC
 
 ## Features
 - create multiple bots/apps in one project
