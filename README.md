@@ -5,6 +5,9 @@ GMDI (GameMaker DiscordAPI Integration) is a library (in the form of a yymps fil
 > Documentation, helpful tips, tutorials and examples can be found here: 
 https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docu
 
+> [!NOTE]
+> You can download **Oliver's GMDI .yymps file** via the **GMDI Discord:** https://discord.gg/PVV3afa3GC
+
 ## ⭐ Features
 - a live connection to the Discord gateway and receive all Discord events
 - an asynchronous system for HTTP requests and gateway connections with corresponding interception of HTTP errors and Discord Api errors
@@ -22,9 +25,6 @@ https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docu
 
 
 ## ⭐ How to install
-
-> [!NOTE]
-> You can download **Oliver's GMDI .yymps file** via the **GMDI Discord:** https://discord.gg/PVV3afa3GC
 
 [Here is a video tutorial](https://www.youtube.com/watch?v=Q3g9KW8QxUM&ab_channel=OliverDoCode). 
 **However, I recommend reading these instructions, as not everything is shown in the video.**
