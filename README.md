@@ -29,8 +29,17 @@ https://github.com/OliverDoCode/GameMaker-DiscordAPI-Integration/tree/main/docs
 
 ## Functions of DiscordGML that we work with
 
-app()       // You can do everything with it around your app
-build()     // you use it to build objects 
-type()      // contains all the types you need to build objects
-wrap()      // wrap an object to see in the help window of GameMaker what this object can contain
-flags()     // contains all flags and a function that can check flags
+**app()**
+You can do everything with it around your app
+
+**build()**
+You use it to build objects 
+
+**type()**
+Contains all the types you need to build objects
+
+**wrap()**
+Wrap an object to see in the help window of GameMaker what this object can contain
+
+**flags()**
+Contains all flags and a function that can check flags
